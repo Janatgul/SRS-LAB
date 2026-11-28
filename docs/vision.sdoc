@@ -1,0 +1,43 @@
+[DOCUMENT]
+TITLE: UniRide - Problem Statement and Vision
+
+[SECTION]
+TITLE: Problem Statement
+
+[TEXT]
+Students and staff reach campus on about 25 university buses. Seats are registered on paper, fees are paid at the accounts counter, and nobody can tell where a bus is or whether it is full. Passengers wait at stops without information, some routes run overcrowded while others run nearly empty, and each month fee disputes consume the time of the transport in-charge and accounts staff. Parents cannot tell whether a child has boarded. The university has no reliable data on demand per route, so it cannot plan its fleet.
+[/TEXT]
+
+[SECTION]
+TITLE: Vision Statement
+
+[TEXT]
+For students, staff and parents who need dependable daily transport, UniRide is a campus transport management system that lets users book a seat, see fee status and follow bus status in one place. Unlike paper registers and counter payments, UniRide gives the transport office live seat availability and demand data for every route.
+[/TEXT]
+
+[SECTION]
+TITLE: Objectives
+
+[TEXT]
+1. Faster seat registration - Measure: Staff hours spent registering seats at semester start. Target: From about three working days to under one hour within one term.
+2. Fewer fee disputes - Measure: Disputes the accounts office handles per month. Target: At least 70% fewer within two terms.
+3. Less overcrowding - Measure: Share of trips with more passengers than seats. Target: Under 5% of trips within one term.
+[/TEXT]
+
+[SECTION]
+TITLE: Scope
+
+[TEXT]
+In Scope:
+1. Seat booking and cancellation
+2. Fee payment status per student
+3. Trip start and end reporting by drivers
+4. Passenger list per bus for gate security
+
+Out of Scope:
+1. Route planning and optimisation
+2. Vehicle maintenance management
+3. Driver payroll
+4. Building a payment gateway
+[/TEXT]
+[/SECTION]
