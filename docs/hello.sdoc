@@ -1,0 +1,15 @@
+[DOCUMENT]
+TITLE: Hello World SRS
+
+[REQUIREMENT]
+UID: REQ-001
+STATEMENT: >>>
+Hello World
+<<<
+
+[REQUIREMENT]
+UID: REQ-002
+TITLE: User Login
+STATEMENT: >>>
+The system shall allow users to login with email and password and show Welcome message.
+<<<

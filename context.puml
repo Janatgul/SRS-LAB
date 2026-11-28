@@ -1,0 +1,7 @@
+@startuml
+rectangle "Student" as S
+rectangle "Course Portal" as P
+rectangle "Database" as D
+S --> P : uses
+P --> D : stores data
+@enduml
